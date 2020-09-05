@@ -1,5 +1,6 @@
 #![crate_name = "rs_travis_demo"]
 #![crate_type = "lib"]
+#![doc(html_root_url = "https://ysouyno.github.io/rs-travis-demo/")]
 
 //! This is a comment.
 
